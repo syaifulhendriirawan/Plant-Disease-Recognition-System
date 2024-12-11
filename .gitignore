@@ -1,0 +1,16 @@
+# Ignore virtual environment
+/plant_diseases/Lib/
+/plant_diseases/Scripts/
+/plant_diseases/Include/
+/pyvenv.cfg
+
+# Ignore Jupyter Notebook checkpoints
+*.checkpoint
+
+# Ignore model and binary files
+*.h5
+
+# Ignore other files that are not needed in Git
+*.log
+*.csv
+*.tsv
